@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 describe("Network Requests", () => {
   let message = "Unable to find comment";
   beforeEach(() => {
